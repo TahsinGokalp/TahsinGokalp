@@ -18,5 +18,7 @@ jobs:
         with:
           USERNAME: 'TahsinGokalp' # Hashnode Username
           COUNT: 10 # MAX Visisble
+          BLOG_URL: 'https://tahsingokalp.dev/'
+          STYLE: 'blog-left'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
