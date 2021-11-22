@@ -17,8 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'TahsinGokalp' # Hashnode Username
-          COUNT: 5 # MAX Visisble
+          COUNT: 10 # MAX Visisble
           BLOG_URL: 'https://tahsingokalp.dev/'
-          STYLE: 'blog-alternate'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
