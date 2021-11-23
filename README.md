@@ -2,6 +2,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Bilgisayarınızda NFT Nasıl Oluşturulur?](https://tahsingokalp.dev//bilgisayarinizda-nft-nasil-olusturulur)
 - [Composer update cURL error 60 hatası](https://tahsingokalp.dev//composer-update-curl-error-60-hatasi)
 - [Devexpress'e Türkçe Dil Eklemek](https://tahsingokalp.dev//devexpresse-turkce-dil-eklemek)
 - [Laragon Laravel Versiyonunu Yükseltme](https://tahsingokalp.dev//laragon-laravel-versiyonunu-yukseltme)
@@ -11,7 +12,6 @@
 - [Turkcell C# Eğitim Notları](https://tahsingokalp.dev//turkcell-c-egitim-notlari)
 - [Composer 'Could not load package mews/purifier' Hatası](https://tahsingokalp.dev//composer-could-not-load-package-mewspurifier-hatasi)
 - [SQL Server Yedeği Nasıl Geri Yüklenir? (.bak Dosyası)](https://tahsingokalp.dev//sql-server-yedegi-nasil-geri-yuklenir-bak-dosyasi)
-- [SQL Server 2019 Kurulumu (Windows)](https://tahsingokalp.dev//sql-server-2019-kurulumu-windows)
 <!-- HASHNODE_BLOG:END -->
 
 <!--
