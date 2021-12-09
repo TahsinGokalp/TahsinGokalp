@@ -2,6 +2,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [CCXT Binance "Timestamp for this request is outside of the recvWindow." Hatası](https://tahsingokalp.dev//ccxt-binance-timestamp-for-this-request-is-outside-of-the-recvwindow-hatasi)
 - [Bilgisayarınızda NFT Nasıl Oluşturulur?](https://tahsingokalp.dev//bilgisayarinizda-nft-nasil-olusturulur)
 - [Composer update cURL error 60 hatası](https://tahsingokalp.dev//composer-update-curl-error-60-hatasi)
 - [Devexpress'e Türkçe Dil Eklemek](https://tahsingokalp.dev//devexpresse-turkce-dil-eklemek)
@@ -11,7 +12,6 @@
 - [Laravel 'public' Klasörünü 'public_html' Olarak Değiştirmek](https://tahsingokalp.dev//laravel-public-klasorunu-publichtml-olarak-degistirmek)
 - [Turkcell C# Eğitim Notları](https://tahsingokalp.dev//turkcell-c-egitim-notlari)
 - [Composer 'Could not load package mews/purifier' Hatası](https://tahsingokalp.dev//composer-could-not-load-package-mewspurifier-hatasi)
-- [SQL Server Yedeği Nasıl Geri Yüklenir? (.bak Dosyası)](https://tahsingokalp.dev//sql-server-yedegi-nasil-geri-yuklenir-bak-dosyasi)
 <!-- HASHNODE_BLOG:END -->
 
 <!--
