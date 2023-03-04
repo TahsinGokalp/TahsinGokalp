@@ -2,6 +2,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Ubuntu LVM Disk Genişletme](https://tahsingokalp.dev//ubuntu-lvm-disk-genisletme)
 - [Visual Studio 2015 "Internal Diagnostics Hub Exception. See log for more details." Hatası ve Çözümü](https://tahsingokalp.dev//visual-studio-2015-internal-diagnostics-hub-exception-see-log-for-more-details-hatasi-ve-cozumu)
 - [Visual Studio Update 3 Yükleme Hatası](https://tahsingokalp.dev//visual-studio-update-3-yukleme-hatasi)
 - [CCXT Binance "Timestamp for this request is outside of the recvWindow." Hatası](https://tahsingokalp.dev//ccxt-binance-timestamp-for-this-request-is-outside-of-the-recvwindow-hatasi)
@@ -11,7 +12,6 @@
 - [Laragon Laravel Versiyonunu Yükseltme](https://tahsingokalp.dev//laragon-laravel-versiyonunu-yukseltme)
 - [cross-env: not found Hatası](https://tahsingokalp.dev//cross-env-not-found-hatasi)
 - [MEB Yasaklı Site Düzeltme](https://tahsingokalp.dev//meb-yasakli-site-duzeltme)
-- [Laravel 'public' Klasörünü 'public_html' Olarak Değiştirmek](https://tahsingokalp.dev//laravel-public-klasorunu-publichtml-olarak-degistirmek)
 <!-- HASHNODE_BLOG:END -->
 
 <!--
