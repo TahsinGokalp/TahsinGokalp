@@ -1,0 +1,37 @@
+name: "🐘 Elephant"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs Every Day
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/elephant.py'
+      - 'assets/elephant.png'
+      - '.github/workflows/elephant.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: "Generate Elephant"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥 Fetching Repository Contents"
+        uses: actions/checkout@v7
+
+      - name: "🐘 Drawing The Elephant"
+        run: python3 scripts/elephant.py ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "🚀 Pushing To Output Branch"
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
